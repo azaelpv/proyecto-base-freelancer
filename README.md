@@ -1,3 +1,3 @@
 # proyecto-base-freelancer
 muestra de la pagina
-https://zingy-maamoul-611dec.netlify.app/
+https://64c448b61ec6cc1444a531ee--famous-mooncake-d0e0a2.netlify.app/
